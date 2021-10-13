@@ -15,7 +15,6 @@ class Navigation extends React.Component {
                         <li><a href="#services" onClick={this.props.removeActive}>Servicios</a></li>
                         <li><a href="#project" onClick={this.props.removeActive}>Proyectos</a></li>
                         <li><a href="#testimonials" onClick={this.props.removeActive}>Testimonios</a></li>
-                        <li><a href="#contact" onClick={this.props.removeActive}>Contacto</a></li>
                     </ul>
                     <div className="themeSwitch" onClick={this.props.switchThemeMode}>
                         <FontAwesomeIcon icon={this.props.dark ? faSun : faMoon} />
