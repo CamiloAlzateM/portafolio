@@ -1,34 +1,25 @@
 {
   "files": {
-    "main.css": "/portafolio-personal/static/css/main.2e175054.chunk.css",
-    "main.js": "/portafolio-personal/static/js/main.e9f041dd.chunk.js",
-    "main.js.map": "/portafolio-personal/static/js/main.e9f041dd.chunk.js.map",
+    "main.css": "/portafolio-personal/static/css/main.7214da2c.chunk.css",
+    "main.js": "/portafolio-personal/static/js/main.af5cdb42.chunk.js",
+    "main.js.map": "/portafolio-personal/static/js/main.af5cdb42.chunk.js.map",
     "runtime-main.js": "/portafolio-personal/static/js/runtime-main.38f97fb1.js",
     "runtime-main.js.map": "/portafolio-personal/static/js/runtime-main.38f97fb1.js.map",
-    "static/js/2.ee5a5a93.chunk.js": "/portafolio-personal/static/js/2.ee5a5a93.chunk.js",
-    "static/js/2.ee5a5a93.chunk.js.map": "/portafolio-personal/static/js/2.ee5a5a93.chunk.js.map",
+    "static/js/2.deb95c4d.chunk.js": "/portafolio-personal/static/js/2.deb95c4d.chunk.js",
+    "static/js/2.deb95c4d.chunk.js.map": "/portafolio-personal/static/js/2.deb95c4d.chunk.js.map",
     "index.html": "/portafolio-personal/index.html",
-    "static/css/main.2e175054.chunk.css.map": "/portafolio-personal/static/css/main.2e175054.chunk.css.map",
-    "static/js/2.ee5a5a93.chunk.js.LICENSE.txt": "/portafolio-personal/static/js/2.ee5a5a93.chunk.js.LICENSE.txt",
+    "static/css/main.7214da2c.chunk.css.map": "/portafolio-personal/static/css/main.7214da2c.chunk.css.map",
+    "static/js/2.deb95c4d.chunk.js.LICENSE.txt": "/portafolio-personal/static/js/2.deb95c4d.chunk.js.LICENSE.txt",
     "static/media/bg1.b56d9846.webp": "/portafolio-personal/static/media/bg1.b56d9846.webp",
-    "static/media/img1.367ba39b.jpg": "/portafolio-personal/static/media/img1.367ba39b.jpg",
-    "static/media/img2.96ea36ed.jpg": "/portafolio-personal/static/media/img2.96ea36ed.jpg",
-    "static/media/img3.22063c3b.jpg": "/portafolio-personal/static/media/img3.22063c3b.jpg",
-    "static/media/img4.a25678fc.jpg": "/portafolio-personal/static/media/img4.a25678fc.jpg",
-    "static/media/img5.b0ebbe68.jpg": "/portafolio-personal/static/media/img5.b0ebbe68.jpg",
-    "static/media/img6.dee4dc81.jpg": "/portafolio-personal/static/media/img6.dee4dc81.jpg",
-    "static/media/img7.9212947a.jpg": "/portafolio-personal/static/media/img7.9212947a.jpg",
-    "static/media/img8.5219c6e3.jpg": "/portafolio-personal/static/media/img8.5219c6e3.jpg",
-    "static/media/img9.ece1082c.jpg": "/portafolio-personal/static/media/img9.ece1082c.jpg",
-    "static/media/user.d04e8575.webp": "/portafolio-personal/static/media/user.d04e8575.webp",
-    "static/media/user1.79257904.jpg": "/portafolio-personal/static/media/user1.79257904.jpg",
-    "static/media/user2.db8e2e34.jpg": "/portafolio-personal/static/media/user2.db8e2e34.jpg",
-    "static/media/user3.60cac3ff.jpg": "/portafolio-personal/static/media/user3.60cac3ff.jpg"
+    "static/media/portafolio-anterior.10bda4d4.png": "/portafolio-personal/static/media/portafolio-anterior.10bda4d4.png",
+    "static/media/rick-y-morty.222987b0.jpg": "/portafolio-personal/static/media/rick-y-morty.222987b0.jpg",
+    "static/media/sebas.be431243.webp": "/portafolio-personal/static/media/sebas.be431243.webp",
+    "static/media/user.d04e8575.webp": "/portafolio-personal/static/media/user.d04e8575.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.38f97fb1.js",
-    "static/js/2.ee5a5a93.chunk.js",
-    "static/css/main.2e175054.chunk.css",
-    "static/js/main.e9f041dd.chunk.js"
+    "static/js/2.deb95c4d.chunk.js",
+    "static/css/main.7214da2c.chunk.css",
+    "static/js/main.af5cdb42.chunk.js"
   ]
 }
