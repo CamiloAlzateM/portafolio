@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/portafolio-personal/static/css/main.7214da2c.chunk.css",
-    "main.js": "/portafolio-personal/static/js/main.af5cdb42.chunk.js",
-    "main.js.map": "/portafolio-personal/static/js/main.af5cdb42.chunk.js.map",
+    "main.css": "/portafolio-personal/static/css/main.8e89f966.chunk.css",
+    "main.js": "/portafolio-personal/static/js/main.c4641729.chunk.js",
+    "main.js.map": "/portafolio-personal/static/js/main.c4641729.chunk.js.map",
     "runtime-main.js": "/portafolio-personal/static/js/runtime-main.38f97fb1.js",
     "runtime-main.js.map": "/portafolio-personal/static/js/runtime-main.38f97fb1.js.map",
-    "static/js/2.deb95c4d.chunk.js": "/portafolio-personal/static/js/2.deb95c4d.chunk.js",
-    "static/js/2.deb95c4d.chunk.js.map": "/portafolio-personal/static/js/2.deb95c4d.chunk.js.map",
+    "static/js/2.6d5333d2.chunk.js": "/portafolio-personal/static/js/2.6d5333d2.chunk.js",
+    "static/js/2.6d5333d2.chunk.js.map": "/portafolio-personal/static/js/2.6d5333d2.chunk.js.map",
     "index.html": "/portafolio-personal/index.html",
-    "static/css/main.7214da2c.chunk.css.map": "/portafolio-personal/static/css/main.7214da2c.chunk.css.map",
-    "static/js/2.deb95c4d.chunk.js.LICENSE.txt": "/portafolio-personal/static/js/2.deb95c4d.chunk.js.LICENSE.txt",
+    "static/css/main.8e89f966.chunk.css.map": "/portafolio-personal/static/css/main.8e89f966.chunk.css.map",
+    "static/js/2.6d5333d2.chunk.js.LICENSE.txt": "/portafolio-personal/static/js/2.6d5333d2.chunk.js.LICENSE.txt",
     "static/media/bg1.b56d9846.webp": "/portafolio-personal/static/media/bg1.b56d9846.webp",
+    "static/media/hojadevida.70f4146c.pdf": "/portafolio-personal/static/media/hojadevida.70f4146c.pdf",
     "static/media/portafolio-anterior.10bda4d4.png": "/portafolio-personal/static/media/portafolio-anterior.10bda4d4.png",
     "static/media/rick-y-morty.222987b0.jpg": "/portafolio-personal/static/media/rick-y-morty.222987b0.jpg",
     "static/media/sebas.be431243.webp": "/portafolio-personal/static/media/sebas.be431243.webp",
@@ -18,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.38f97fb1.js",
-    "static/js/2.deb95c4d.chunk.js",
-    "static/css/main.7214da2c.chunk.css",
-    "static/js/main.af5cdb42.chunk.js"
+    "static/js/2.6d5333d2.chunk.js",
+    "static/css/main.8e89f966.chunk.css",
+    "static/js/main.c4641729.chunk.js"
   ]
 }
