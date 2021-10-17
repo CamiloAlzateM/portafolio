@@ -1,0 +1,28 @@
+.hojavida {
+    margin-top: 20px;
+}
+
+embed {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+button.return {
+    width: 100%;
+    padding: 5px;
+    text-transform: uppercase;
+    background: rgb(37, 40, 43);
+    border: none;
+    color: white;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+button.return:hover {
+    cursor: pointer;
+}
+
+.main.active {
+    display: block;
+}

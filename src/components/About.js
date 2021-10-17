@@ -15,7 +15,7 @@ class About extends React.Component {
                             Desde pequeño he sido una persona muy curiosa, me fascina encontrar el por qué de todas
                             las cosas que me llaman la atención.<br />
                             Me considero una persona amable, respetuosa, sociable y solidaria; uno de mis pensamientos más sólidos
-                            es que una persona vale por la forma en que trata a los demás y no por los títulos y riquezas que posea.<br />
+                            es que una persona vale por la forma en que trata a los demás y no por los títulos y riquezas que posee.<br />
                             Me encanta la programación, el fútbol, el ajedrez, los videojuegos, salir a dar un paseo con mis seres
                             queridos, ver películas, degustar nuevos sabores de comida y viajar por todo el mundo conociendo sus maravillas.<br />
                             Aproximadamente a los 15 años descubrí la programación y desde ese momento quedé fascinado; me quería

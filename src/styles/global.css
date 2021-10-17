@@ -138,6 +138,10 @@ body {
     letter-spacing: 1px;
 }
 
+.main .topbar .logo:hover {
+    cursor: pointer;
+}
+
 .main .topbar .toggle {
     position: relative;
     width: 60px;
@@ -213,6 +217,11 @@ p {
     letter-spacing: 1px;
     margin-top: 10px;
     text-decoration: none;
+    border: none;
+}
+
+.btn:hover {
+    cursor: pointer;
 }
 
 .dark .btn:hover {
@@ -434,17 +443,18 @@ p {
 
 .testimonials .content .testimonialsBox .imgBx {
     position: relative;
-    width: 180px;
-    height: 100%;
+    width: 97px;
+    height: 130px;
     margin-bottom: 10px;
+    margin: auto;
 }
 
 .testimonials .content .testimonialsBox .imgBx img {
     position: absolute;
     top: 0;
     left: 0;
-    width: 80px;
-    height: 80px;
+    width: auto;
+    height: 130px;
 }
 
 .testimonials .content .testimonialsBox p {
@@ -561,7 +571,7 @@ p {
 }
 
 .themeSwitch::after {
-    content: 'Switch To Dark Mode';
+    content: 'Modo Noche';
     position: absolute;
     left: 40px;
     font-size: 0.7em;
@@ -573,10 +583,10 @@ p {
 }
 
 .dark .themeSwitch::after {
-    content: 'Switch To Light Mode';
+    content: 'Modo día';
 }
 
-::-webkit-scrollbar{
+::-webkit-scrollbar {
     background: var(--white);
 }
 
@@ -593,7 +603,8 @@ p {
     }
 
     .testimonials .content .testimonialsBox .imgBx {
-        width: 350px;
+        width: 100%;
+        margin: 0;
     }
 
     .testimonials .content .testimonialsBox .imgBx img {
