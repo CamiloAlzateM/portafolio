@@ -6,7 +6,7 @@ function App() {
   return (
     <BrowserRouter> 
       <Switch>
-        <Route exact component={Home} path="/" asename={process.env.PUBLIC_URL}/>
+        <Route component={Home} path="/" asename={process.env.PUBLIC_URL}/>
       </Switch>
     </BrowserRouter>
   )
