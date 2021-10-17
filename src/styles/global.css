@@ -296,6 +296,10 @@ p {
     background: var(--black);
 }
 
+.content {
+    padding: 30px 30px;
+}
+
 .about .content {
     display: flex;
     justify-content: space-between;
@@ -306,7 +310,6 @@ p {
     width: 49%;
     min-width: 49%;
     text-align: justify;
-    padding: 0 30px;
 }
 
 .about .content .imgBx {
