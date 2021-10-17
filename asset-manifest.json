@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portafolio-personal/static/css/main.8e89f966.chunk.css",
+    "main.css": "/portafolio-personal/static/css/main.6a6a0456.chunk.css",
     "main.js": "/portafolio-personal/static/js/main.c4641729.chunk.js",
     "main.js.map": "/portafolio-personal/static/js/main.c4641729.chunk.js.map",
     "runtime-main.js": "/portafolio-personal/static/js/runtime-main.38f97fb1.js",
@@ -8,7 +8,7 @@
     "static/js/2.6d5333d2.chunk.js": "/portafolio-personal/static/js/2.6d5333d2.chunk.js",
     "static/js/2.6d5333d2.chunk.js.map": "/portafolio-personal/static/js/2.6d5333d2.chunk.js.map",
     "index.html": "/portafolio-personal/index.html",
-    "static/css/main.8e89f966.chunk.css.map": "/portafolio-personal/static/css/main.8e89f966.chunk.css.map",
+    "static/css/main.6a6a0456.chunk.css.map": "/portafolio-personal/static/css/main.6a6a0456.chunk.css.map",
     "static/js/2.6d5333d2.chunk.js.LICENSE.txt": "/portafolio-personal/static/js/2.6d5333d2.chunk.js.LICENSE.txt",
     "static/media/bg1.b56d9846.webp": "/portafolio-personal/static/media/bg1.b56d9846.webp",
     "static/media/hojadevida.70f4146c.pdf": "/portafolio-personal/static/media/hojadevida.70f4146c.pdf",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.38f97fb1.js",
     "static/js/2.6d5333d2.chunk.js",
-    "static/css/main.8e89f966.chunk.css",
+    "static/css/main.6a6a0456.chunk.css",
     "static/js/main.c4641729.chunk.js"
   ]
 }
