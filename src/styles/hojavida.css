@@ -23,6 +23,6 @@ button.return:hover {
     cursor: pointer;
 }
 
-.main.active {
+.main.hoja-vida.active {
     display: block;
 }

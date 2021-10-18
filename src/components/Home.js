@@ -60,7 +60,7 @@ class Home extends React.Component {
         if (this.state.activeHojaVida) {
             return (
                 <div className="container">
-                    <div className="main active">
+                    <div className="main hoja-vida active">
                         <Navbar
                             toggleActiveHojaVida={this.toggleActiveHojaVida}
                             hideIconMenu={true}

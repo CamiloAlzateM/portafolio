@@ -539,7 +539,7 @@ p {
 }
 
 /* Responsive */
-@media(min-width: 900px) {
+@media(min-width: 1320px) {
     .testimonials .content .testimonialsBox {
         display: flex;
         justify-content: space-between;
@@ -547,13 +547,18 @@ p {
 
     .testimonials .content .testimonialsBox .imgBx {
         width: 100%;
+        max-width: 225px;
         margin: 0;
     }
 
     .testimonials .content .testimonialsBox .imgBx img {
-        width: 100%;
-        height: auto;
+        width: auto;
+        height: 280px;
         object-fit: cover;
+    }
+
+    .testimonials .content .testimonialsBox .content-testimonials {
+        width: 100%;
     }
 }
 
